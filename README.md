@@ -3,6 +3,9 @@
 
 **Linux Command ---->** [LINK ](https://kinsta.com/blog/linux-commands/)
 
+**YAML all you need to know about ---->** [LINK ](https://www.cloudbees.com/blog/yaml-tutorial-everything-you-need-get-started)
+
+
 Welcome to the CODE-Journey wiki!
 <hr>
 
