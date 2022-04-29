@@ -7,12 +7,10 @@ class HomePage extends StatelessWidget {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: Text("We-chat App"),
+        title: Text("We Chat"),
       ),
       body: Center(
-        child: Container(
-          child: Text('Welcome to this page Abhishek '),
-        ),
+        child: Text('Welcome to this page Abhishek \n              Chat 24x7 Dude'),
       ),
       drawer: Drawer(),
     );
